@@ -1,0 +1,12 @@
+Savings Account
+Account Holder: Barack Obama
+Account Number: 340586138
+Transaction: +$10 at 1/29/2017 3:28:47 PM Current Balance: $1870110
+Transaction: -$5 at 1/29/2017 3:28:56 PM Current Balance: $1870105
+Savings Account
+Account Holder: Barack Obama
+Account Number: 792688826
+Transaction: +$2000 at 2/1/2021 3:01:03 PM Current Balance: $20000
+Savings Account
+Account Holder: Aduragbemi Sonyaolu
+Account Number: 292643460

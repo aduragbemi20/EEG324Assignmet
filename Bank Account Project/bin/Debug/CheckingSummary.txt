@@ -1,0 +1,12 @@
+Checking Account
+Account Holder: Barack Obama
+Account Number: 340586138
+Transaction: +$10 at 1/29/2017 3:28:37 PM Current Balance: $2010
+Transaction: -$5 at 1/29/2017 3:28:50 PM Current Balance: $2005
+Checking Account
+Account Holder: Barack Obama
+Account Number: 792688826
+Transaction: +$300 at 2/1/2021 2:59:46 PM Current Balance: $2300
+Checking Account
+Account Holder: Aduragbemi Sonyaolu
+Account Number: 292643460
